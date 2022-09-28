@@ -6,8 +6,9 @@ Here, you and your team will contribute to one of the St. Louis topics.
 
 ## Teams
 
- - Bridges (markdown doc/[project](https://github.com/orgs/RWorkflow-Workshops/projects/2/views/1))
-
+ - Bridges (markdown doc/[project]())
+ - Resturants (markdown doc/[project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1))
+ 
 ## Roles
 
 ### Product owner
