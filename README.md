@@ -33,13 +33,6 @@ To make things easier, confine your searches on the surounding 1 square mile:
 
 Here, everyone will contribute to a markdown document and github project within the github browser. Within your teams, designate someone to be each of the following roles:
 
-### Product owner
-
- - Backlogged tasks ready to be worked on. Define 5 minute tasks that can be easily completed. 
-
-For example, you may decide that 
-
-### Presenter
-
- - Present your team's findings in 2 minutes at the end of the workshop. 
+ - **Product owner** Backlogged tasks ready to be worked on. Define 5 minute tasks that can be easily completed. 
+ - **Presenter** Present your team's findings in 2 minutes at the end of the workshop. 
 
