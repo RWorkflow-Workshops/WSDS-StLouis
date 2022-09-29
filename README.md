@@ -17,13 +17,13 @@ Git and GitHub are used throughout the data science community, not just to keep 
 
 Here, you and your team will contribute to one of the St. Louis topics. 
 
- - Bridges ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/bridges.md)/[project](https://github.com/orgs/RWorkflow-Workshops/projects/6))
- - Resturants ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/restaurants.md)/[project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1))
- - Parks ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/parks.md)/[projects](https://github.com/orgs/RWorkflow-Workshops/projects/8))
- - Sports ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/sports.md)/[projects](https://github.com/orgs/RWorkflow-Workshops/projects/10))
- - Music ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/music.md)/[project](https://github.com/orgs/RWorkflow-Workshops/projects/13))
- - Public Art ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/public_art.md)/[projects](https://github.com/orgs/RWorkflow-Workshops/projects/4))
- - History ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/history.md)/[project](https://github.com/orgs/RWorkflow-Workshops/projects/12))
+ - **Bridges**: (Eli and Em's demo team) [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/bridges.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/6)
+ - **Resturants**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/restaurants.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1)
+ - **Parks**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/parks.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/8)
+ - **Sports**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/sports.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/10)
+ - **Music**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/music.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/13)
+ - **Public Art**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/public_art.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/4)
+ - **History**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/history.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/12)
  
 To make things easier, confine your searches on the surounding 1 square mile:
  
