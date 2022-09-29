@@ -23,7 +23,7 @@ Here, you and your team will contribute to one of the St. Louis topics.
  - Sports ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/sports.md)/[projects](https://github.com/orgs/RWorkflow-Workshops/projects/10))
  - Music ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/music.md)/[project](https://github.com/orgs/RWorkflow-Workshops/projects/13))
  - Public Art ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/public_art.md)/[projects](https://github.com/orgs/RWorkflow-Workshops/projects/4))
- - History ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/history.md)/[project](https://github.com/orgs/RWorkflow-Workshops/projects/12)))
+ - History ([markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/history.md)/[project](https://github.com/orgs/RWorkflow-Workshops/projects/12))
  
 To make things easier, confine your searches on the surounding 1 square mile:
  
