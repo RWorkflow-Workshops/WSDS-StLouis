@@ -50,7 +50,7 @@ Here, everyone will contribute to a markdown document and github project within 
  - **Do your task** Within your branch, enter your md file and write your piece!
  - 
  - 
- - 
+ - **Pull request to add your branch's updates to the main branch**
  - **Merge and merge conflicts**
 
 
