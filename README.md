@@ -36,3 +36,21 @@ Here, everyone will contribute to a markdown document and github project within 
  - **Product owner** Backlogged tasks ready to be worked on. Define 5 minute tasks that can be easily completed. 
  - **Presenter** Present your team's findings in 2 minutes at the end of the workshop. 
 
+## Workflow
+
+*Remember, this is a "Yes, And!" enviornment, so there are no wrong answers!* Just move through the steps and get something on the page. 
+
+ - **You are assigned to a team**
+ - **How to create a project** We've already done this for you, but we detail how we did it here [INSERT VIDEO LINK]. 
+ - **Choose topic ideas and assign tasks** In the project, add tasks with the "+ Add tasks" button at the bottom of the "New" column. These need to be simple tasks that will take *~5 minutes*. 
+ - **Make each of your tasks into issues** Make a bulleted list of 
+ - **Make each of your subtasks issues** Within the main issue, you can make your bulleted tasks into issues. Click on the issue title on the webpage, scroll over to each subtask and on the right hand side you will see an icon to make it into an issue. 
+ - **Within each issue, create a branch** This will allow you to "check out" this task and address the issue's task. 
+ - **Find your branch** You can click on the hyperlink in the issue or find your branch on the [branches page of the repo](https://github.com/RWorkflow-Workshops/WSDS-StLouis/branches). Each branch will be named with the number of your issue and the name of the issue. 
+ - **Do your task** Within your branch, enter your md file and write your piece!
+ - 
+ - 
+ - 
+ - **Merge and merge conflicts**
+
+
