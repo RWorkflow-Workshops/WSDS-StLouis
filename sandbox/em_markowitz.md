@@ -1,6 +1,6 @@
 # Thinking space 
 
-only my changes show up!
+> I am the coolest
 
 I am thinking about things
 
