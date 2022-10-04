@@ -40,7 +40,7 @@ In short, we expect each participant to follow the [workshop's code of conduct](
 
 ## Agenda
 
-Presentation slides: https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing
+[Presentation slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)
 
 ### *8:00-8:20*: Welcome & Warm Up Activity: Zoo Tycoon!
 
@@ -58,16 +58,29 @@ If anyone remember's this early 2000's business simulation video computer game, 
  - :ticket: **Organize tasks to get the ready for deligation**: Go through tasks and devided
  - Assign each of your team members 
  
- ### *8:20-8:40* Introduce GitHub
+### *8:20-8:40* Introduce GitHub
  
- ### *8:40-9:10* Group Work - Use what you learned!  
+### *8:40-9:10* Group Work - Use what you learned!  
  
- ### *9:10-9:30* Edit markdown documents in the browser
+### *9:10-9:30* Edit markdown documents in the browser
  
- ### *9:30-10:00* Group Work - Use what you learned!  
+### *9:30-10:00* Group Work - Use what you learned!  
  
- ### ** 
+### *10-10:15* Lecture and Demo on using Branches
+
+### *10:15-10:35* Group Work - Use what you learned!  
+
+Work on your tasks in your branch. Move all tasks on the project board to done. 
  
+### *10:30-10:45* Lecture and Demo on using Pull Requests
+
+Demo: Eli and Em doing their 2 pull request from their branches on bridges.md
+ 
+### *10:45-11:00* Break with Light Refreshments
+
+### 
+
+
  [still working!]
  
 
