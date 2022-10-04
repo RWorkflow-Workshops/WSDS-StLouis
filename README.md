@@ -40,6 +40,8 @@ In short, we expect each participant to follow the [workshop's code of conduct](
 
 ## Agenda
 
+Presentation slides: https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing
+
 ### *8:00-8:20*: Welcome & Warm Up Activity: Zoo Tycoon!
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/193709452-6a94e75b-68cb-4ab2-83f5-4175d183da42.jpg" width="20%">  
@@ -55,6 +57,14 @@ If anyone remember's this early 2000's business simulation video computer game, 
  - :clipboard: **Develop ideas**: Pick an exhibit to build (e.g., reptiles, mystical sea monsters, dinosaurs, insects, safari) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., animals, toys for animals, benches, bathing pools). 
  - :ticket: **Organize tasks to get the ready for deligation**: Go through tasks and devided
  - Assign each of your team members 
+ 
+ ### *8:20-8:40* Introduce GitHub
+ 
+ ### *8:40-9:10* Group Work - Use what you learned!  
+ 
+ ### *9:10-9:30* Edit markdown documents in the browser
+ 
+ ### *9:30-10:00*  Group Work - Use what you learned!  
  
  [still working!]
  
