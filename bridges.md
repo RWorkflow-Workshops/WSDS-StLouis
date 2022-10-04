@@ -13,6 +13,11 @@
 
 ## William L. Clay Bridge
 
+This is not that interesting but has a nice view of the Great Arch.
+
+![image](https://user-images.githubusercontent.com/2545978/193943425-d03caf8a-9f9c-43a5-b991-7b8cadfdd1d3.png)
+
+
 ## Martin Luther King Bridge
 
 
