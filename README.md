@@ -2,7 +2,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/2545978/193091073-6b38734f-cd28-4946-ab2a-bebdb223d3cb.png" width="20%">  
 
-We are looking forward to seeing you on October 6th. **Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
+**Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
+
+**[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
+
+**[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
@@ -20,7 +24,7 @@ Git and GitHub are used throughout the data science community, not just to keep 
 Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the St. Louis topics!  
 
  - **Bridges**: (Eli and Em's demo team) [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/bridges.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/6)
- - **Resturants**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/restaurants.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1)
+ - **Restuarants**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/restuarants.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1)
  - **Parks**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/parks.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/8)
  - **Sports**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/sports.md), [projects](https://github.com/orgs/RWorkflow-Workshops/projects/10)
  - **Music**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/music.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/13)
@@ -40,6 +44,8 @@ In short, we expect each participant to follow the [workshop's code of conduct](
 
 ## Agenda
 
+[Presentation slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)
+
 ### *8:00-8:20*: Welcome & Warm Up Activity: Zoo Tycoon!
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/193709452-6a94e75b-68cb-4ab2-83f5-4175d183da42.jpg" width="20%">  
@@ -56,6 +62,29 @@ If anyone remember's this early 2000's business simulation video computer game, 
  - :ticket: **Organize tasks to get the ready for deligation**: Go through tasks and devided
  - Assign each of your team members 
  
+### *8:20-8:40* Introduce GitHub
+ 
+### *8:40-9:10* Group Work - Use what you learned!  
+ 
+### *9:10-9:30* Edit markdown documents in the browser
+ 
+### *9:30-10:00* Group Work - Use what you learned!  
+ 
+### *10-10:15* Lecture and Demo on using Branches
+
+### *10:15-10:35* Group Work - Use what you learned!  
+
+Work on your tasks in your branch. Move all tasks on the project board to done. 
+ 
+### *10:30-10:45* Lecture and Demo on using Pull Requests
+
+Demo: Eli and Em doing their 2 pull request from their branches on bridges.md
+ 
+### *10:45-11:00* Break with Light Refreshments
+
+### 
+
+
  [still working!]
  
 
