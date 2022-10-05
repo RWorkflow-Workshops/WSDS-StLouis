@@ -2,7 +2,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/2545978/193091073-6b38734f-cd28-4946-ab2a-bebdb223d3cb.png" width="20%">  
 
-We are looking forward to seeing you on October 6th. **Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
+**Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
+
+**[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
+
+**[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
