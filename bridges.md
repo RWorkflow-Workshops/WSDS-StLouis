@@ -4,12 +4,6 @@
 
 # South to North
 
-## William L. Clay Bridge
-
-This bridge is not that interesting. It just has a big freeway and you cannot walk on it. If you are in a car, it has a nice view of the Great Arch.
-
-![image](https://user-images.githubusercontent.com/2545978/193943425-d03caf8a-9f9c-43a5-b991-7b8cadfdd1d3.png)
-
 ## Eads Bridge, 1867
 
 ![image](https://user-images.githubusercontent.com/2545978/193693837-93dda031-cdbb-429c-bf60-cd260edefe48.png)
@@ -19,6 +13,9 @@ This bridge is not that interesting. It just has a big freeway and you cannot wa
  - American civil engineer
  - May 23, 1820 – March 8, 1887
 
+## MacArthur Bridge
+
+Add content
 
 ## Martin Luther King Bridge
 
