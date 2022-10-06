@@ -1,8 +1,24 @@
-# Header 1
+# Some very good things
 
-> This is where your team will collaboratively work on your section! 
+A list of some excellent things
 
-## Header 2
+## Cats
+
+One of the only things saving my sanity after many hours spent on zoom is cat zoombombing. My cat **Perry** is an expert. She was not too enthusiastic about the regression short course I led:
+
+![IMG_1274 copy](https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg)
+
+
+## Pokemon
+
+I am deeply committed to catching 'em all! 
+
+## Strange birds
+
+I just learned about this amazing bird yesterday from twitter. The **Potoo**:
+
+![Potoo](https://user-images.githubusercontent.com/23526578/194341348-721de904-0631-4f52-bf10-c886ef437bc3.jpeg)
+
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
