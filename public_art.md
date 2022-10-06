@@ -1,12 +1,19 @@
-# Header 1
+# Google Maps Image
 
-> This is where your team will collaboratively work on your section! 
+<img width="1477" alt="Screen Shot 2022-10-06 at 10 09 23 AM" src="https://user-images.githubusercontent.com/64475583/194350354-d106e7c1-921b-412a-8894-e03de85974cd.png">
 
-## Header 2
+## Possible Art Options
 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
-
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
+- [ ] Mural Mile
+- [ ] Lou Brock Sculpture
+- [ ] Zenit Sculpture
+- [ ] Mad Art Gallery
+- [ ] Night Sculpture
+- [ ] Red Ringed Figure
+- [ ] Bob Gibson Statue
+- [ ] Art St. Louis Gallery
+- [ ] Samarkand
+- [ ] Jack Buck Statue
 
 ![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
 
