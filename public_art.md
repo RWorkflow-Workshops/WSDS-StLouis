@@ -10,18 +10,17 @@ St. Louis, MO 63102
 
 <img width="429" alt="Screen Shot 2022-10-06 at 10 40 10 AM" src="https://user-images.githubusercontent.com/64475583/194357458-44e029f3-6605-49b3-af34-0d4a5bb87aa2.png">
 
-## Possible Art Options
+### Information
 
-- [ ] Mural Mile
-- [ ] Lou Brock Sculpture
-- [ ] Zenit Sculpture
-- [ ] Mad Art Gallery
-- [ ] Night Sculpture
-- [ ] Red Ringed Figure
-- [ ] Bob Gibson Statue
-- [ ] Art St. Louis Gallery
-- [ ] Samarkand
-- [ ] Jack Buck Statue
+The Mural Mile is located along the Riverfront between Victor and Chouteau Avenues, south of the Gateway Arch. Started in 1997, the project became an annual event held every labor day weekend. Organized by the organization Paint Louis, more than 250 graffiti artists from around the country came to St. Louis to add to this mural on the Mississippi River floodwall.
 
-![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
+Dimensions: 15′ – 50′
+Year Completed: 1997-2000
+Material: Paint, graffiti
+Owner: City of St. Louis
 
+https://racstl.org/public-art/the-mural-mile-floodwall/
+
+### Artist
+
+The Mural Mile was created by an artist group Paint Louis
