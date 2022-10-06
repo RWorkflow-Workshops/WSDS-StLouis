@@ -12,10 +12,21 @@ A renowned, international sculptor, Harry Weber was born in St. Louis, Missouri 
 
 ![image](https://harryweber.com/wp-content/uploads/2017/10/Weber-1a-148A0282.jpeg)
 
- ### Location
- [700 Clark Ave, St. Louis, MO 63102](https://www.google.com/maps/place/Busch+Stadium/@38.6226188,-90.1928209,15z/data=!4m5!3m4!1s0x0:0xa57962d7e3509f27!8m2!3d38.6226188!4d-90.1928209?hl=en)
+ Address: [700 Clark Ave, St. Louis, MO 63102](https://www.google.com/maps/place/Busch+Stadium/@38.6226188,-90.1928209,15z/data=!4m5!3m4!1s0x0:0xa57962d7e3509f27!8m2!3d38.6226188!4d-90.1928209?hl=en)
  
  ### [Learn More!](https://racstl.org/public-art/stan-musial/)
  
 
+## Contemporary Art Museum St. Louis
 
+![image](https://user-images.githubusercontent.com/47701394/194358123-d70da19d-71eb-4478-bccd-0e62bf59d04e.png)
+
+Website: [https://camstl.org/](https://camstl.org/)
+
+Address: 3750 Washington Boulevard
+
+Hours during WSDS:
+- Thursday: 10 am - 5 pm
+- Friday: 10 am - 8 pm
+- Saturday: 10 am - 5 pm
+- Sunday: 10 am - 5 pm
