@@ -40,5 +40,5 @@
 
 701 Convention Plaza, St. Louis, MO 63101
 
-<img src="https://user-images.githubusercontent.com/115127231/194353510-a2c485e2-5c7d-4a6e-ab01-19099b9677c3.png" width="300px>
+<img src="https://user-images.githubusercontent.com/115127231/194353510-a2c485e2-5c7d-4a6e-ab01-19099b9677c3.png" width="300px">
 
