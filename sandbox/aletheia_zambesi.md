@@ -10,6 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/64475583/194343200-ee9d13f0-836a-4d8c-88ce-3b5e39946252.jpeg)
 
+$$ \mu=\sum_{i=1}^{n} x_i/n$$
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
