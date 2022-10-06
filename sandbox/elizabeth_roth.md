@@ -1,6 +1,9 @@
 # Hello my name is Elizabeth Roth
 
-> This is where your team will collaboratively work on your section! 
+I live and work in Charleston, SC.
+Folly Beach is my favorite place to spend time there.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Folly-Beach-Lighthouse-Inlet-Preserve-sc.jpg"> 
 
 ## Header 2
 
