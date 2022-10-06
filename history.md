@@ -1,12 +1,14 @@
-# Informations from wikipedia
-Built in 1879, the Museum is located on St. Louis’ historic “Millionaires’ Row.” It contains 10,000 artifacts.
+# Females in St. Louis' history
 
-George Boyer was born in Carlisle, Pennsylvania, the third child and only son of an abolitionist, John Bethune Vashon.[1] In 1840, at age 16, he enrolled in Oberlin Collegiate Institute (later Oberlin College), and in 1844 he became its first African-American graduate,[2] and the valedictorian of his class.
-Vashon was the first practicing African-American lawyer in New York State, but was denied the right to practice in Pennsylvania because of his "race", first in 1847 and again in 1868.[1] According to Judge Thomas Mellon, "The teachings of history and physiology clearly establish the fact that social equality and connection between the races in the domestic relations can only be productive of evil—shortening life and weakening the physical and mental condition, as a general rule." He proposed that there be a separate territory for Blacks in the United States where they could vote, practice law, and serve on juries, but not in Pennsylvania.[4]
+## Female activists
+
+### First female in supreme court
+Sandra Day O'Connor (born March 26, 1930) is an American retired attorney and politician who served as the first female associate justice of the Supreme Court of the United States from 1981 to 2006. She was both the first woman nominated and the first confirmed to the court.[5] Nominated by President Ronald Reagan, she was considered the swing vote for the Rehnquist Court and the first five months of the Roberts Court.
+
+![image](https://user-images.githubusercontent.com/36777574/194356323-61166c3f-c370-485e-a7ca-6de944ac3a44.png)
 
 
-
-## Header 2
+### First female police officer
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
