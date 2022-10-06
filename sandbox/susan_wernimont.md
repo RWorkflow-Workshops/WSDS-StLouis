@@ -15,6 +15,13 @@ trying another gif
 Inserting a website
 [Gateway Arch National Park (U.S. National Park Service)](https://www.nps.gov/jeff/index.htm)
 
+Inserting a map image of a national park
+
+![image](https://user-images.githubusercontent.com/52007089/194343182-5a733501-f183-44f1-96c3-e68dcf0224e9.png)
+
+
+![image](https://user-images.githubusercontent.com/52007089/194343368-a8f07f13-42d2-4299-a6ad-6ef1e9fb3231.png)
+
 
 ## Header 2
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
