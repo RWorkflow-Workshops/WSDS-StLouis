@@ -13,7 +13,7 @@ A renowned, international sculptor, Harry Weber was born in St. Louis, Missouri 
 ![image](https://harryweber.com/wp-content/uploads/2017/11/jack-close-052.jpg)
 
  ### Location
- 700 Clark Ave, St. Louis, MO 63102 
+ [700 Clark Ave, St. Louis, MO 63102](https://www.google.com/maps/place/Busch+Stadium/@38.6226188,-90.1928209,15z/data=!4m5!3m4!1s0x0:0xa57962d7e3509f27!8m2!3d38.6226188!4d-90.1928209?hl=en)
  
  ### [Learn More!](https://racstl.org/public-art/stan-musial/)
  
