@@ -136,6 +136,6 @@ Demo: Eli and Em doing their 2 pull request from their branches on bridges.md. E
  - Creating issues and using them to build branches and complete tasks (and auto move tasks across your Kanban board!)
  - More about [project management in GitHub](https://www.youtube.com/watch?v=MYNIXz9iViU)
 
-### * 11:45-12:00* Discussion
+### *11:45-12:00* Discussion
 
 ## Thanks for coming!
