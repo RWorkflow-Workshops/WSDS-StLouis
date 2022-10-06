@@ -9,9 +9,18 @@
 
 # Chili Mac's Diner
 
+* Opens at 5:30AM
+* Yes, they serve chili cheese fries!
+
 # Salt+Smoke
 
+* St Louis style BBQ!
+* Gluten-free menu available
+
 # Sports and Social
+
+* _A one-of-a-kind sports bar, restaurant and social gaming venue_
+* Brunch starting at 11AM on weekends
 
 # Header 1
 
