@@ -6,16 +6,14 @@ A list of some excellent things
 
 One of the only things saving my sanity after many hours spent on zoom is cat zoombombing. My cat **Perry** is an expert. She was not too enthusiastic about the regression short course I led:
 
-![PerryPic](https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg)
-
-<img src="[https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg](https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg)"  width="60%" height="30%">
+<!-- ![PerryPic](https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg) -->
+<img src="https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg" alt="Perry" width="400"/>
 
 ## Pokemon
 
 I am deeply committed to catching 'em all! This morning I found a few here at the hotel. For instance, this guy:
 
-![StLouis_helioptile](https://user-images.githubusercontent.com/23526578/194343532-20a35aeb-6eda-45c8-84af-f17b9961d44d.PNG)
-
+<img src="https://user-images.githubusercontent.com/23526578/194343532-20a35aeb-6eda-45c8-84af-f17b9961d44d.PNG" alt="Perry" width="400"/>
 
 ## Strange birds
 
