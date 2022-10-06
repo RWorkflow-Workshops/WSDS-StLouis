@@ -6,7 +6,7 @@
 
 **[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
 
-**[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)
+**[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)**
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
