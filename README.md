@@ -4,12 +4,11 @@
 
 **Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
 
-**[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
+ - **[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
 
-**[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)**
+ - **[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)**
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
-
 
 ### Instructor(s):
 
@@ -103,7 +102,7 @@ Why do we need branches? Bad things happening if you are not careful about how a
  - How to make sure you are on your branch
  - Work on [group name].md in our OWN branch
 
-### *10:00-10:30* Learning in practice: work on tasks in your own branch. 
+### *10:00-10:30* Learning in practice: work on tasks in your own branch
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/194231559-a5bdfc07-f48c-410f-9737-97d290c790ea.png" width="20%">  
 
@@ -111,7 +110,7 @@ Why do we need branches? Bad things happening if you are not careful about how a
  - Move all tasks on the project board to done. 
  - Work on your tasks in your branch. Move all tasks on the project board to from idea, ready, in progress, and done! 
  
-### *10:30-10:45* Lecture and Demo: Using Pull Requests
+### *10:30-10:45* Lecture and Demo: Using pull requests
 
 Demo: Eli and Em doing their 2 pull request from their branches on bridges.md. Eli will commit to main. Em will commit to main after Eli and there will be a merge conflict!
 
