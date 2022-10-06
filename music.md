@@ -13,9 +13,6 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 
 ## Theaters in the Area
 
-* [Ferrara Theatre](https://explorestlouis.com/meetings-conventions/americas-center/ferrara-theatre).
+* [Ferrara Theatre](https://explorestlouis.com/meetings-conventions/americas-center/ferrara-theatre)
 * [Stifle Theatre](https://www.stifeltheatre.com)
 * [New Line Theatre](http://www.newlinetheatre.com)
-
-
-
