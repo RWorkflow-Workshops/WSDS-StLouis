@@ -1,12 +1,13 @@
 # Header 1
 
-> This is where your team will collaboratively work on your section! 
+> Kathy's editing attempt!
 
-## Header 2
+![image](https://user-images.githubusercontent.com/20056821/194342009-0ffe36f8-a106-4e62-bdc9-0550ffa24146.jpeg)
 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
+## Favorite pastime - my DOGS - current
 
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
-
-![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
+- Colt
+- Dangles
+- Enzy
+- RC
 
