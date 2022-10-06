@@ -13,8 +13,8 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 
 ## Theaters in the Area
 
-* [Ferrara Theatre](https://explorestlouis.com/meetings-conventions/americas-center/ferrara-theatre)
-** The Ferrara Theatre is located in America’s Center convention complex and seats 1,400.
-* [Stifle Theatre](https://www.stifeltheatre.com)
-** The Stifle Theatre is located near Memorial park in downtown St. Louis and seats 3,100.
+* [Ferrara Theatre](https://explorestlouis.com/meetings-conventions/americas-center/ferrara-theatre)  
+The Ferrara Theatre is located in America’s Center convention complex and seats 1,400.
+* [Stifle Theatre](https://www.stifeltheatre.com)  
+The Stifle Theatre is located near Memorial park in downtown St. Louis and seats 3,100.
 * [New Line Theatre](http://www.newlinetheatre.com)
