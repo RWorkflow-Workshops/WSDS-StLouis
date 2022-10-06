@@ -11,4 +11,8 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 ![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
 
 
+
+## Practice
 This is a test for committing! 
+
+I am going to try add some lists to have practice on using this feature. 
