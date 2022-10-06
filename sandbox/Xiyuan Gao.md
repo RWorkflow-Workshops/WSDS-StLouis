@@ -16,7 +16,6 @@ ng;dsa
 
 ldsajfipoenav
 
-![image](https://www.cutoutandkeep.net/projects/how-to-draw-really-cute-hamburgers)
-
+![image](https://user-images.githubusercontent.com/80716870/194343401-d9986570-a93b-4f6c-944e-67b7ca320fe6.png)
 
 
