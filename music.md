@@ -33,7 +33,7 @@ Sec LEFT, Row LL
 Standard Ticket
 $29.50 ea
 
-## Trans-Siberian Orchestra
+## Trans-Siberian Orchestra, Dec 10, 2022!
 
 Sat, Dec 10, 3 – 5 PM CST
 Enterprise Center
