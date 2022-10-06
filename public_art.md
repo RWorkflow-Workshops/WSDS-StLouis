@@ -1,6 +1,9 @@
-# Header 1
+# Some public art in Downtown St. Louis!
 
-> This is where your team will collaboratively work on your section! 
+-Walking Figure by Donald Baechler
+-Torsi Di Ikaro by Igor Mitoraj
+-The Mural Mile (floodwall) by Paint Louis
+-Synergism by William Conrad Severson and Saunders Schultz
 
 ## Header 2
 
