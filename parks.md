@@ -14,36 +14,34 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 ![image](https://user-images.githubusercontent.com/52007089/194350417-7b0bcad5-8b6f-4b8f-b34f-d263bfdf9147.png)
 
 ### Amenities in Gateway Arch National Park
-Visitor Center
-Arch Store
+Visitor Center,
+Arch Store,
 Arch Cafe
 
 ### Amenities in Forest Park
-Visitor and Education Center
-Forest Park Explorer bus service
+Visitor and Education Center,
+Forest Park Explorer bus service,
 Restrooms
 
 ### Amenities in Lafayette Park
-Kern Pavillion
-Lafayette Park Playground
+Kern Pavillion,
+Lafayette Park Playground,
 Lafayette Park House
 
 ### Features in Gateway Arch National Park
-Gateway Arch
-Old Courthouse
+Gateway Arch,
+Old Courthouse,
 Grand Staircase
 
 ### Features in Forest Park
-Round Lake
-Deer Lake
+Round Lake,
+Deer Lake,
 Fish Hatchery
 
 ### Features in Lafayette Park
-Revolutionary War Cannons
-Thomas Hart Benton Statue
+Revolutionary War Cannons,
+Thomas Hart Benton Statue,
 Lafayette Park Lake
-
-
 
 ### Locatoin of Gateway Arch National Park
 Fourth Street between Market and Chestnut streets
