@@ -7,5 +7,5 @@
 
 * Kayaking
 * Tennis courts 
-* Pickleball courts
+* [Pickleball courts:](https://www.stlouispickleball.com/locations)
 
