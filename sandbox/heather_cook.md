@@ -7,7 +7,8 @@ Heather Cook is my name, computing statistics is my game!
 
 [LinkedIn Profile](www.linkedin.com/in/heather-l-cook-usi)
 
--Here is a bullet point
+* Here is a bullet point
+- another way to put a bullet
 
 
 
