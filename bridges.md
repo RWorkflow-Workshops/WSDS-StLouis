@@ -1,7 +1,5 @@
 # Nearby Bridges
 
-**Here is super important that I don't want to lose!!! So much work!!!**
-
 <img width="455" alt="image" src="https://user-images.githubusercontent.com/2545978/193932252-49362fe2-a81d-4727-8a2f-bfdca78cf0d8.png">
 
 # South to North
@@ -24,9 +22,9 @@ This bridge is not that interesting. It just has a big freeway and you cannot wa
 
 ## Martin Luther King Bridge
 
-![image](https://user-images.githubusercontent.com/2545978/194203239-f7828a4d-e719-470f-8df4-a62a2581fcc5.png)
+Opened 1951
 
-Here is some 
+![image](https://user-images.githubusercontent.com/2545978/194203239-f7828a4d-e719-470f-8df4-a62a2581fcc5.png)
 
 
 ### Design
