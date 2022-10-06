@@ -5,12 +5,15 @@
 ##### St. Louis Blues (Ice Hockey)
 - Founded in 1967
 - Won Stanley Cup in 2019
-- 
 
 
 ##### St. Louis Cardinals (Baseball)
+- Founded in 1881 as the St. Louis Browns as a charter member of the American Association baseball league 
+- The team won four league championships, qualifying them to play in the era's professional baseball championship series, a forerunner of the modern World Series. In two of these championships, the Browns met the Chicago White Stockings, now the Chicago Cubs, launching the enduring Cardinals–Cubs rivalry.
+- In 1892, the Browns, also called the Perfectos, joined the National League. 
+- In 1900, the team was renamed the Cardinals. 
 
-
+<img src="https://user-images.githubusercontent.com/115127231/194361839-489f41e1-bc0e-4cda-9aa1-3c205f107cef.png" width="500px">
 
 
 
