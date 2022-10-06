@@ -1,6 +1,6 @@
 # Header 1
 
-> This is where your team will collaboratively work on your section! 
+> I'm practicing how to use and copy-paste images into markdown.
 
 ## Header 2
 
