@@ -1,9 +1,9 @@
 # Some public art in Downtown St. Louis!
 
--Walking Figure by Donald Baechler
--Torsi Di Ikaro by Igor Mitoraj
--The Mural Mile (floodwall) by Paint Louis
--Synergism by William Conrad Severson and Saunders Schultz
+- Walking Figure by Donald Baechler
+- Torsi Di Ikaro by Igor Mitoraj
+- The Mural Mile (floodwall) by Paint Louis
+- Synergism by William Conrad Severson and Saunders Schultz
 
 ## Header 2
 
