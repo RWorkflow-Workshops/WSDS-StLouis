@@ -2,7 +2,8 @@
 
 > Can't wait to learn new things! 
 
-* The Project Boards were cool; Can definitely use this in SSDS
+* The Project Boards were cool; I can def see BY, AC, and I using this
+* Project Boards might also be cool for planning SOC 501
 * Commit Changes were cool too
 * Exciting about working on the running group info
 
