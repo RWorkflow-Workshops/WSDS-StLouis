@@ -1,7 +1,24 @@
 # 5 Closest Restaurants
 
-> This is where your team will collaboratively work on your section! 
+> Note - didn't really check status!
 
-## Reservations required
+# Market Street Bistro
 
-None of the 5 restaurants we chose require reservations! So go with confidence. 
+## Reservation: No
+
+# Carmine's Steak House
+
+## Reservation: No
+
+# Chili Mac's Diner
+
+## Reservation: No
+
+# Salt+Smoke
+
+## Reservation: No
+
+# Sports and Social
+
+## Reservation: No
+
