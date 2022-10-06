@@ -2,7 +2,15 @@
 
 > This is where your team will collaboratively work on your section! 
 
-## Header 2
+## Website links for each park
+
+Lafayette Park: https://www.stlouis-mo.gov/parks/parks/browse-parks/view-park.cfm?parkID=52&parkName=Lafayette%20Park 
+
+Forest Park: https://www.forestparkforever.org/
+
+Gateway Arch: https://www.gatewayarch.com/
+
+
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
