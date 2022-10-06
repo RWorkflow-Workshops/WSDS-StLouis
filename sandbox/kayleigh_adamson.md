@@ -1,8 +1,11 @@
-# Header 1
+# Hi! I'm Kayleigh! 
+![image](https://user-images.githubusercontent.com/49322307/194342555-1764f111-f620-4d52-a6c1-1c35ba103946.png)
 
-> This is where your team will collaboratively work on your section! 
+> she/her/hers
 
-## Header 2
+# I live in Pittsburgh
+![image](https://user-images.githubusercontent.com/49322307/194342783-9cb29929-88dc-40fb-88a5-b15bb299351a.png)
+
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
