@@ -1,4 +1,5 @@
 # Recreational activities
+Being a spectator is great, but St. Louis has plenty of recreational activities if you want to get in on the action yourself! 
 
 ![image](https://user-images.githubusercontent.com/49322307/194352285-b820c0aa-50ad-40c4-bfcc-18d766b14258.png)
 
