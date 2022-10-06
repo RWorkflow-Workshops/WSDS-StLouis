@@ -15,4 +15,16 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 ## Practice
 This is a test for committing! 
 
+### adding a list
 I am going to try add some lists to have practice on using this feature. 
+To adding list, I only need to do the followings
+ - space
+ - dash
+ - space
+ then, the listing will appear for the next ones by simply hitting enter :)
+ 
+### adding an image from a webpage
+To do that, I simply need to compy the image and paste it here
+![image](https://user-images.githubusercontent.com/36777574/194342824-86cfc0a4-42b7-4076-97f7-ad7ef2e7cfd7.png)
+
+### what is next ?
