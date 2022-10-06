@@ -5,15 +5,17 @@ Ten sculptures of former St. Louis Cardinals players adorn the sidewalk outside 
  ![image](http://offbeat.group.shef.ac.uk/statues/images/baseball/Musial_Stan_2A.jpg)
  
  ### Artist overview
- ### Picture of artist
+Harry Weber
+b. 1942
+
+A renowned, international sculptor, Harry Weber was born in St. Louis, Missouri in 1942. He studied art history at Princeton University. Weber has produced a body of work of over 90 large and more than 200 smaller pieces. His work embodies human emotion and power with a spontaneity developed from a lifelong habit of sketching from observation. He creates sculptures with a distinct style that makes maximum use of the natural fluidity of the bronze medium, capturing a single moment that never appears static or posed. In 2011 he was named Sports Artist of the Year by the US Sports Academy.
+
+![image](https://harryweber.com/wp-content/uploads/2017/11/jack-close-052.jpg)
+
  ### Location
- ### [Link to information](https://racstl.org/public-art/stan-musial/)
+ 700 Clark Ave, St. Louis, MO 63102 
+ 
+ ### [Learn More!](https://racstl.org/public-art/stan-musial/)
  
 
-
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
-
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
-
-![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
 
