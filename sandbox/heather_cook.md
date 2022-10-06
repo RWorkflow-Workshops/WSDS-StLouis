@@ -7,6 +7,8 @@ Heather Cook is my name, computing statistics is my game!
 
 [LinkedIn Profile](www.linkedin.com/in/heather-l-cook-usi)
 
+-Here is a bullet point
+
 
 
 <img src="https://user-images.githubusercontent.com/115127231/194341208-51537a41-9fda-4124-b504-7dda3af8662b.jpg" width="200px">
