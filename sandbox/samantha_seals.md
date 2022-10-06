@@ -1,1 +1,1 @@
-![grogu](https://user-images.githubusercontent.com/47701394/194340820-e0caa88f-3729-4302-91a6-223c3a323441.gif)
+![elmo](https://user-images.githubusercontent.com/47701394/194341072-5a4eee0a-71b3-48e9-bb70-def75f76a4d6.gif)
