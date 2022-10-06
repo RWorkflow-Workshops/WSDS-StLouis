@@ -64,3 +64,11 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 
 ![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
 
+
+## Theaters in the Area
+
+* [Ferrara Theatre](https://explorestlouis.com/meetings-conventions/americas-center/ferrara-theatre)  
+The Ferrara Theatre is located in America’s Center convention complex and seats 1,400.
+* [Stifle Theatre](https://www.stifeltheatre.com)  
+The Stifle Theatre is located near Memorial park in downtown St. Louis and seats 3,100.
+* [New Line Theatre](http://www.newlinetheatre.com)
