@@ -2,7 +2,7 @@
  ### Description of Art
 Ten sculptures of former St. Louis Cardinals players adorn the sidewalk outside Busch Stadium. Each player appears caught in mid-action in a different pose, sliding into home plate or diving to catch a pop fly. Over the course of four years, sculptor Harry Weber was commissioned to create likenesses of Bob Gibson, Stan Musial, Enos Slaughter, Lou Brock, Red Schoendienst, Dizzy Dean, Rogers Hornsby, Cool Papa Bell, George Sisler, and Ozzie Smith.
 
- ![image](http://offbeat.group.shef.ac.uk/statues/images/baseball/Musial_Stan_2A.jpg)
+ ![image]([http://offbeat.group.shef.ac.uk/statues/images/baseball/Musial_Stan_2A.jpg](https://harryweber.com/wp-content/uploads/2017/10/Weber-1a-148A0282.jpeg)
  
  ### Artist overview
 Harry Weber
