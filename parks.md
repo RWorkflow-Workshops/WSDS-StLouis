@@ -1,7 +1,3 @@
-# Header 1
-
-> This is where your team will collaboratively work on your section! 
-
 ## Website links for each park
 
 Lafayette Park: https://www.stlouis-mo.gov/parks/parks/browse-parks/view-park.cfm?parkID=52&parkName=Lafayette%20Park 
