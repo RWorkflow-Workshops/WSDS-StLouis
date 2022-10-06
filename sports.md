@@ -1,6 +1,12 @@
-# Header 1
+# Team Sports
 
-> This is where your team will collaboratively work on your section! 
+#### Major League Teams
+- St. Louis Blues (Ice Hockey)
+- St. Louis Cardinals (Baseball)
+
+#### Pro Football Team
+- St. Louis Rams
+
 
 ## Header 2
 
