@@ -1,19 +1,3 @@
-# Restaurants near St. Louis Hilton at the Ballpark
-![Screen Shot 2022-10-06 at 10 18 29 AM](https://user-images.githubusercontent.com/111654164/194353138-793c4c41-2ce0-4814-a6a1-717bc83979fc.png)
-
-# Market Street Bistro
-![Screen Shot 2022-10-06 at 10 28 52 AM](https://user-images.githubusercontent.com/111654164/194354808-a9b26309-2b3a-4929-b0c3-0fc2329a8289.png)
-
-Price: 
-Cuisine: American
-Rating:_3.5 stars_
-
-* Conveniently located in the Hilton
-* Reviews note the comfortable chairs, friendly service and large portion size
-
-[Menu](https://www.menupix.com/saintlouis/restaurants/380130666/Market-Street-Bistro-and-Bar-Saint-Louis-MO)
-
-<img width="600" alt="Market Street Bistro" src="https://user-images.githubusercontent.com/23526578/194357173-2ffdefb1-1c77-4100-9326-1f41818672a7.png">
 
 # Carmine's Steak House
 ![Screen Shot 2022-10-06 at 10 29 32 AM](https://user-images.githubusercontent.com/111654164/194354978-5833a7c4-3030-4dcf-89c4-ac1ced409a82.png)
