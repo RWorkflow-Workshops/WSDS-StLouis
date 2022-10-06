@@ -13,3 +13,17 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 ### National and Local Parks in this Area
 ![image](https://user-images.githubusercontent.com/52007089/194350417-7b0bcad5-8b6f-4b8f-b34f-d263bfdf9147.png)
 
+### Amenities in Gateway Arch National Park
+Visitor Center
+Arch Store
+Arch Cafe
+
+### Amenities in Forest Park
+Visitor and Education Center
+Forest Park Explorer bus service
+Restrooms
+
+### Amenities in Lafayette Park
+Kern Pavillion
+Lafayette Park Playground
+Lafayette Park House
