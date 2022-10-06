@@ -2,6 +2,16 @@
 
 > This is where your team will collaboratively work on your section! 
 
+## Heather Cook Information
+Heather Cook is my name, computing statistics is my game!
+
+[LinkedIn Profile](www.linkedin.com/in/heather-l-cook-usi)
+
+
+![1589830007022](https://user-images.githubusercontent.com/115127231/194341208-51537a41-9fda-4124-b504-7dda3af8662b.jpg)
+
+
+
 ## Header 2
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
