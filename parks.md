@@ -27,3 +27,18 @@ Restrooms
 Kern Pavillion
 Lafayette Park Playground
 Lafayette Park House
+
+### Features in Gateway Arch National Park
+Gateway Arch
+Old Courthouse
+Grand Staircase
+
+### Features in Forest Park
+Round Lake
+Deer Lake
+Fish Hatchery
+
+### Features in Lafayette Park
+Revolutionary War Cannons
+Thomas Hart Benton Statue
+Lafayette Park Lake
