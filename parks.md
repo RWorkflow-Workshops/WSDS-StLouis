@@ -10,3 +10,6 @@ You can ctrl+c an image from online and directly ctrl+p images into your .md.
 
 ![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
 
+### National and Local Parks in this Area
+![image](https://user-images.githubusercontent.com/52007089/194350417-7b0bcad5-8b6f-4b8f-b34f-d263bfdf9147.png)
+
