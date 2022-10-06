@@ -1,12 +1,14 @@
-# Header 1
+# Recreational activities
+Being a spectator is great, but St. Louis has plenty of recreational activities if you want to get in on the action yourself! 
 
-> This is where your team will collaboratively work on your section! 
+![image](https://user-images.githubusercontent.com/49322307/194352285-b820c0aa-50ad-40c4-bfcc-18d766b14258.png)
 
-## Header 2
+* [Public swimming pools:](https://www.stlouis-mo.gov/government/departments/parks/recreation/st-louis-city-pools.cfm) Plenty of options for the family! 
+<img width="421" alt="Screen Shot 2022-10-06 at 9 05 01 AM" src="https://user-images.githubusercontent.com/49322307/194351593-4ff9d2a2-bf20-4464-ba58-c078218d19d9.png">
 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
+* [Kayaking:](https://urbanoutdoors.com/canoeing-kayaking-st-louis/) Care for a nice, cool evening during the hot summer months? Want a little exericse while you're at it? Take a break and go for a water front cruise! 
+* [Tennis courts:](https://www.stlouis-mo.gov/parks/parks/browse-parks/amenities.cfm?amenitySubtypeID=46) Lots of fun places around the city area to practice your super serve! 
+ <img width="387" alt="Screen Shot 2022-10-06 at 10 32 50 AM" src="https://user-images.githubusercontent.com/49322307/194355756-17521b2f-4854-425f-b2eb-24336aa7eee5.png">
 
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
-
-![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
+* [Pickleball courts:](https://www.stlouispickleball.com/locations) A hot, up and coming sport! Lebron James just bought a league! 
 
