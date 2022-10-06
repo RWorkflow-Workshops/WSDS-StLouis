@@ -10,9 +10,11 @@
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
+
 ### Instructor(s):
 
 * [Elizabeth “Eli” Holmes](https://github.com/eeholmes), NOAA Fisheries, Northwest Fisheries Science Center <a href = "mailto: eli.holmes@noaa.gov">Send Email</a>, <a href = "http://eeholmes.github.io/">Website</a>
+
 * [Emily "Em" Markowitz](https://github.com/EmilyMarkowitz-NOAA), NOAA Fisheries, Alaska Fisheries Science Center <a href = "mailto: emily.markowitz@noaa.gov">Send Email</a>, <a href = "https://emilyhmarkowitz.github.io/emilyhmarkowitz/">Website</a>
 
 ### Training description
@@ -21,7 +23,7 @@ Git and GitHub are used throughout the data science community, not just to keep 
 
 ## Teams
 
-Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the St. Louis topics!  
+Here, everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the St. Louis topics! 
 
  - **Bridges**: (Eli and Em's demo team) [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/bridges.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/6)
  - **Restuarants**: [markdown doc](https://github.com/RWorkflow-Workshops/WSDS-StLouis/blob/main/restuarants.md), [project](https://github.com/orgs/RWorkflow-Workshops/projects/3/views/1)
@@ -37,14 +39,15 @@ To make things easier, confine your searches on the surounding 1 square mile:
 
 ## Code of Conduct
 
+<img align="right" src="https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg" width="20%">  
+
 *Remember, this is a **"Yes, And!" enviornment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
-![download](https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg)
 
 In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
 
 ## Agenda
 
-[Presentation slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)
+**[Presentation slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)**
 
 ### *8:00-8:20*: Welcome & Warm Up Activity: Zoo Tycoon!
 
@@ -55,62 +58,84 @@ If anyone remember's this early 2000's business simulation video computer game, 
  - Form groups of ~4 people
  - Set up a project board on the table or wall. Prepare 4 columns with blue masking tape for each stage of production: 
     - :clipboard: **Ideas**: Generate good, bad, and maybe ideas!
+       - Pick an exhibit to build (e.g., reptiles, mystical sea monsters, dinosaurs, insects, safari) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., animals, toys for animals, benches, bathing pools). 
     - :ticket: **Ready to work on**: The idea now has a clear path forward and someone can pick up the task. 
+      - Organize tasks to get the ready for deligation. 
     - :construction_worker: **In progress**: Assign tasks and get to work! Let your team mates know you're on it.  
-    - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done. 
- - :clipboard: **Develop ideas**: Pick an exhibit to build (e.g., reptiles, mystical sea monsters, dinosaurs, insects, safari) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., animals, toys for animals, benches, bathing pools). 
- - :ticket: **Organize tasks to get the ready for deligation**: Go through tasks and devided
- - Assign each of your team members 
+    - :heavy_check_mark: **Done**: You did it! Let your team mates know you got the job done.  
+ - (5 min each:) Report out! What was in your zoo/exhibit and how efficient was the team at getting the task done? 
+
+### *8:20-8:40* Lecture and Demo: Introduce GitHub
+
+<img align="right" src="https://user-images.githubusercontent.com/75965120/194229808-6641a999-73ba-4467-87ff-823c6c59cbc3.png" width="20%">  
+
+ - What are goals are for today
+ - Introduce GitHub in the browser
+ - Introduce [GH Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c)
+ - Show how to add “cards”
  
-### *8:20-8:40* Introduce GitHub
- 
-### *8:40-9:10* Group Work - Use what you learned!  
- 
-### *9:10-9:30* Edit markdown documents in the browser
- 
-### *9:30-10:00* Group Work - Use what you learned!  
- 
-### *10-10:15* Lecture and Demo on using Branches
+### *8:40-9:10* Learning in practice: Add tasks to your GitHub Project Board
 
-### *10:15-10:35* Group Work - Use what you learned!  
-
-Work on your tasks in your branch. Move all tasks on the project board to done. 
- 
-### *10:30-10:45* Lecture and Demo on using Pull Requests
-
-Demo: Eli and Em doing their 2 pull request from their branches on bridges.md
- 
-### *10:45-11:00* Break with Light Refreshments
-
-### 
-
-
- [still working!]
- 
-
- Welcome Activity: Build a Zoo Exhibit
-1 minute:  decide the kind of exhibit
-5 minute: 1) post tasks and 2) grab tasks and move the tasks through the Kanban Board
-5 min total: Report out - what was in your zoo/exhibit and how efficient was the team at getting the task done? 
-
-
-
-
-
-
-
-
- - **You are assigned to a team**
- - **How to create a project** We've already done this for you, but we detail how we did it here [INSERT VIDEO LINK]. 
+ - Each team member comes up with a topic with 2-3 sub topics
  - **Choose topic ideas and assign tasks** In the project, add tasks with the "+ Add tasks" button at the bottom of the "New" column. These need to be simple tasks that will take *~5 minutes*. 
  - **Make each of your tasks into issues** Make a bulleted list of 
  - **Make each of your subtasks issues** Within the main issue, you can make your bulleted tasks into issues. Click on the issue title on the webpage, scroll over to each subtask and on the right hand side you will see an icon to make it into an issue. 
- - **Within each issue, create a branch** This will allow you to "check out" this task and address the issue's task. 
+
+### *9:10-9:30* Lecture and Demo: Edit markdown documents in the browser
+
+ - Introduce more GitHub terminology
+ - Adding text
+ - Adding images
+ - Adding links
+ - Committing
+ - History
+ 
+### *9:30-9:45* Learning in practice: Edit your sandbox markdown file and commit your changes
+
+<img src="https://user-images.githubusercontent.com/75965120/194230867-fd1ff377-4f48-429f-b56f-7ef4a07c1a32.png" width="40%">  <img src="https://user-images.githubusercontent.com/75965120/194231023-7f0fff6c-a159-431e-af54-bdc383b9d2d0.png" width="40%">  
+
+### *9:45-10:00* Demo and Lecture: Using branches
+
+Why do we need branches? Bad things happening if you are not careful about how and when you commit changes!
+
+ - What is a branch
+ - How to create a branch
+ - How to make sure you are on your branch
+ - Work on [group name].md in our OWN branch
+
+### *10:00-10:30* Learning in practice: work on tasks in your own branch. 
+
+<img align="right" src="https://user-images.githubusercontent.com/75965120/194231559-a5bdfc07-f48c-410f-9737-97d290c790ea.png" width="20%">  
+
  - **Find your branch** You can click on the hyperlink in the issue or find your branch on the [branches page of the repo](https://github.com/RWorkflow-Workshops/WSDS-StLouis/branches). Each branch will be named with the number of your issue and the name of the issue. 
- - **Do your task** Within your branch, enter your md file and write your piece!
- - 
- - 
- - **Pull request to add your branch's updates to the main branch**
- - **Merge and merge conflicts**
+ - Move all tasks on the project board to done. 
+ - Work on your tasks in your branch. Move all tasks on the project board to from idea, ready, in progress, and done! 
+ 
+### *10:30-10:45* Lecture and Demo: Using Pull Requests
 
+Demo: Eli and Em doing their 2 pull request from their branches on bridges.md. Eli will commit to main. Em will commit to main after Eli and there will be a merge conflict!
 
+ - What is a Pull Request
+ - How to do a Pull Request from the browser
+
+### *10:45-11:00* :tea: Break with Light Refreshments :doughnut:
+
+### *11:00-11:30* Learning in practice: Take time to organize and do your pull requests
+
+ - Add new tasks with the pull requests
+ - Decide on commit order (aka, who will commit first, second, etc.)
+ - As you complete pull requests and resolve the merge conflicts, you might come up with new tasks
+
+### *11:15-11:30* Lecture: GitHub issues
+
+ - Quick introduction; show how to search for an issue and add to board
+
+### *11:30-11:45* Talk about next learning steps & demo
+
+ - Other GitHub Kanban board features
+ - Creating issues and using them to build branches and complete tasks (and auto move tasks across your Kanban board!)
+ - More about [project management in GitHub](https://www.youtube.com/watch?v=MYNIXz9iViU)
+
+### * 11:45-12:00* Discussion
+
+## Thanks for coming!
