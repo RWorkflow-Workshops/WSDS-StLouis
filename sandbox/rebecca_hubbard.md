@@ -1,4 +1,4 @@
-# Some very good things
+# A brief list of some very good things
 
 A list of some excellent things
 
@@ -11,7 +11,10 @@ One of the only things saving my sanity after many hours spent on zoom is cat zo
 
 ## Pokemon
 
-I am deeply committed to catching 'em all! 
+I am deeply committed to catching 'em all! This morning I found a few here at the hotel. For instance, this guy:
+
+![StLouis_helioptile](https://user-images.githubusercontent.com/23526578/194343532-20a35aeb-6eda-45c8-84af-f17b9961d44d.PNG)
+
 
 ## Strange birds
 
