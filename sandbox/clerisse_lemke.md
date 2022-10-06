@@ -1,5 +1,9 @@
 # Header 1
 
+Playing around with markdown
+
+![download](https://user-images.githubusercontent.com/36140264/194340949-a5a92a2c-8d17-4961-8aaa-5096ddb701a8.jpg)
+
 > This is where your team will collaboratively work on your section! 
 
 ## Header 2
