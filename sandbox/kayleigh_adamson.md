@@ -12,9 +12,3 @@ I work at UPitt as a systems programmer. however I do other fun things too!
 * Games nights with friends
 
 ![alt-text](https://media3.giphy.com/media/3o6UBfwmyyFM9ieUgM/200w.gif?cid=82a1493byeu9lj2u2dnryb4dm3drvj8f600e91mmx95ms8je&rid=200w.gif&ct=g)
-
-## 
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
-
-<img src ="url" width="100px">
-
