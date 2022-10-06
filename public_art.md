@@ -4,7 +4,8 @@
  ### Artist overview
  ### Picture of artist
  ### Location
- ### [Link to information]
+ ### [Link to information](https://racstl.org/public-art/stan-musial/)
+ 
 
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
