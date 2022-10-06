@@ -1,9 +1,19 @@
-# Header 1
+# Females in St. Louis' history
 
 > This is where your team will collaboratively work on your section! 
 > lalalaa
 
 # Contents
+
+## Female activists
+
+### First female in supreme court
+Sandra Day O'Connor (born March 26, 1930) is an American retired attorney and politician who served as the first female associate justice of the Supreme Court of the United States from 1981 to 2006. She was both the first woman nominated and the first confirmed to the court.[5] Nominated by President Ronald Reagan, she was considered the swing vote for the Rehnquist Court and the first five months of the Roberts Court.
+
+![image](https://user-images.githubusercontent.com/36777574/194356323-61166c3f-c370-485e-a7ca-6de944ac3a44.png)
+
+
+### First female police officer
 
 1. Website
 2. Images
