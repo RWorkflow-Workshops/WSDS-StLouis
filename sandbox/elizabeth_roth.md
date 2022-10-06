@@ -5,7 +5,13 @@ Folly Beach is my favorite place to spend time there.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Folly-Beach-Lighthouse-Inlet-Preserve-sc.jpg"> 
 
-## Header 2
+## Thinks I like
+- sewing
+- cats
+- walking
+- comedy
+- [libraries](https://www.library.musc.edu)
+
 
 Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
 
