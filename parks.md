@@ -6,7 +6,7 @@
 
 The property for the Gateway Arch was designated in 1935 as a National Park. The design competition started in 1948 and construction of the arch began in 1963. Construction was completed in 1965. It was created to document St. Louis's role in the westward expansion.
 
-Forest Park
+Forest Park officially opened to the public in 1876 and still is one of the largest urban parks in the United States. It was created because the Missouri legislature passed an ordinance to establish three parks in the county in 1874. Most of the land was originally virgin forest, which is where the park received its name.
 
 Lafayette Park
 
