@@ -8,7 +8,7 @@ One of the only things saving my sanity after many hours spent on zoom is cat zo
 
 ![PerryPic](https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg)
 
-<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg)"  width="60%" height="30%">
+<img src="[https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg](https://user-images.githubusercontent.com/23526578/194342675-4b8a8ba4-4d15-4bb4-8398-3f352054d7b8.jpg)"  width="60%" height="30%">
 
 ## Pokemon
 
