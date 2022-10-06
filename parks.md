@@ -42,3 +42,16 @@ Fish Hatchery
 Revolutionary War Cannons
 Thomas Hart Benton Statue
 Lafayette Park Lake
+
+
+
+### Locatoin of Gateway Arch National Park
+Fourth Street between Market and Chestnut streets
+St. Louis, MO 63102
+
+### Location of Forest Park
+5595 Grand Drive in Forest Park
+St. Louis, MO 63112
+
+### Location of Lafayette Park
+Bounded by Jefferson Avenue, Lafayette Avenue, Park Avenue, and Mississippi Avenue
