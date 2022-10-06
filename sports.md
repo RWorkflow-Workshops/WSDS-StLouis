@@ -21,6 +21,11 @@
 
 ##### St. Louis Rams
 
+- They played in St. Louis from 1995 to 2015 season, before relocating back to Los Angeles, where the team had played from 1946 to 1994.
+
+
+
+
 #### Busch Stadium
 
 >On April 10, 2006, the Cardinals opened their new 46,000 seat retro-style downtown ballpark with a 6-4 win over the Milwaukee Brewers. The Cardinals also became the first team in almost 100 years to win a World Series Championship in the inaugural season of a new ballpark. The new Busch Stadium hosted the 80th MLB All-Star Game, in July 2009.
