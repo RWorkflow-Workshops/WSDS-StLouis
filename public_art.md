@@ -1,3 +1,32 @@
+
+## Mural Mile
+
+<img width="1477" alt="Screen Shot 2022-10-06 at 10 09 23 AM" src="https://user-images.githubusercontent.com/64475583/194350354-d106e7c1-921b-412a-8894-e03de85974cd.png">
+
+### Address
+
+Downtown St. Louis
+Chouteau Ave at S Leonor K Sullivan Blvd.
+St. Louis, MO 63102
+
+<img width="429" alt="Screen Shot 2022-10-06 at 10 40 10 AM" src="https://user-images.githubusercontent.com/64475583/194357458-44e029f3-6605-49b3-af34-0d4a5bb87aa2.png">
+
+### Information
+
+The Mural Mile is located along the Riverfront between Victor and Chouteau Avenues, south of the Gateway Arch. Started in 1997, the project became an annual event held every labor day weekend. Organized by the organization Paint Louis, more than 250 graffiti artists from around the country came to St. Louis to add to this mural on the Mississippi River floodwall.
+
+Dimensions: 15′ – 50′
+Year Completed: 1997-2000
+Material: Paint, graffiti
+Owner: City of St. Louis
+
+https://racstl.org/public-art/the-mural-mile-floodwall/
+
+### Artist
+
+The Mural Mile was created by an artist group Paint Louis
+
+
 ## Harry Weber Sculptures
 Ten sculptures of former St. Louis Cardinals players adorn the sidewalk outside Busch Stadium. Each player appears caught in mid-action in a different pose, sliding into home plate or diving to catch a pop fly.
 Over the course of four years, sculptor Harry Weber was commissioned to create likenesses of Bob Gibson, Stan Musial, Enos Slaughter, Lou Brock, Red Schoendienst, Dizzy Dean, Rogers Hornsby, Cool Papa Bell, George Sisler, and Ozzie Smith.
@@ -5,6 +34,7 @@ Over the course of four years, sculptor Harry Weber was commissioned to create l
  ![image](http://offbeat.group.shef.ac.uk/statues/images/baseball/Musial_Stan_2A.jpg)
  
  ### Artist overview
+ 
 Harry Weber
 b. 1942
 
@@ -30,3 +60,4 @@ Hours during WSDS:
 - Friday: 10 am - 8 pm
 - Saturday: 10 am - 5 pm
 - Sunday: 10 am - 5 pm
+
