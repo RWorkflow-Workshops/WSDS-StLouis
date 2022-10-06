@@ -1,6 +1,6 @@
 # 5 Closest Restaurants
 
-> Note - didn't really check status!
+> *Note - didn't really check status of reservations!*
 
 # Market Street Bistro
 
