@@ -4,6 +4,8 @@
 - Torsi Di Ikaro by Igor Mitoraj
 - The Mural Mile (floodwall) by Paint Louis
 - Synergism by William Conrad Severson and Saunders Schultz
+- Ten sculptures of former St. Louis Cardinals players by Harry Weber
+- Olympic Runner By William Zorach
 
 ## Header 2
 
