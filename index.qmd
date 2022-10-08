@@ -33,7 +33,7 @@ Today will a mini-hackathon, mini as in 4-hour. As a group, we will produce a se
 
 <img align="right" src="https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg" width="20%">  
 
-*Remember, this is a **"Yes, And!" enviornment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
+*Remember, this is a **"Yes, And!" enviornment**. There are no wrong answers!* We are all here to learn and support each other!
 
 In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
 
