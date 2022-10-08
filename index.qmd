@@ -10,9 +10,9 @@ page-layout: full
 
 **Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
 
- - **[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
-
- - **[Workshop slides ppt](WSDS_2022.pptx) --- [Workshop slides pdf](WSDS_2022.pdf)**
+<center>
+**[workshop repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis) --- [Workshop slides ppt](WSDS_2022.pptx) --- [Workshop slides pdf](WSDS_2022.pdf)**
+</center>
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
