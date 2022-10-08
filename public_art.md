@@ -1,3 +1,4 @@
+# Public Art
 
 ## Mural Mile
 
@@ -33,7 +34,7 @@ Over the course of four years, sculptor Harry Weber was commissioned to create l
 
  ![image](http://offbeat.group.shef.ac.uk/statues/images/baseball/Musial_Stan_2A.jpg)
  
- ### Artist overview
+### Artist overview
  
 Harry Weber
 b. 1942

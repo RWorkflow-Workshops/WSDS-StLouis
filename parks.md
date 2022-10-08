@@ -1,3 +1,4 @@
+# Parks
 
 ## Website links for each park
 
@@ -7,7 +8,7 @@ Forest Park: https://www.forestparkforever.org/
 
 Gateway Arch: https://www.gatewayarch.com/
 
-# Parks Project
+## Parks
 
 ![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
 

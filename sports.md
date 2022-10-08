@@ -1,7 +1,6 @@
-
 # Team Sports
 
-#### Major League Teams
+## Major League Teams
 
 ##### St. Louis Blues (Ice Hockey)
 - Founded in 1967
@@ -18,14 +17,11 @@
 
 <img src="https://user-images.githubusercontent.com/115127231/194362233-854a0932-dd4b-4b22-a124-01a0478629f3.png" width="400px">
 
-#### Pro Football Team
+## Pro Football Team
 
 ##### St. Louis Rams
 
 - They played in St. Louis from 1995 to 2015 season, before relocating back to Los Angeles, where the team had played from 1946 to 1994.
-
-
-
 
 #### Busch Stadium
 
@@ -52,7 +48,8 @@
 <img src="https://user-images.githubusercontent.com/115127231/194353510-a2c485e2-5c7d-4a6e-ab01-19099b9677c3.png" width="300px">
 
 
-# Recreational activities
+## Recreational activities
+
 Being a spectator is great, but St. Louis has plenty of recreational activities if you want to get in on the action yourself! 
 
 ![image](https://user-images.githubusercontent.com/49322307/194352285-b820c0aa-50ad-40c4-bfcc-18d766b14258.png)

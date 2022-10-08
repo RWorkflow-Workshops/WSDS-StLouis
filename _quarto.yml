@@ -1,0 +1,70 @@
+project: 
+  type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!sandbox/"
+  
+website: 
+  page-navigation: true
+  title: "WSDS-StLouis" 
+  site-url: "https://github.com/RWorkflow-Workshops/WSDS-StLouis" 
+  repo-url: https://github.com/RWorkflow-Workshops/WSDS-StLouis
+  repo-actions: [edit, source, issue]
+  favicon: "https://raw.githubusercontent.com/RVerse-Tutorials/rverse-tutorials.github.io/master/favicon.ico" 
+  
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By Openscapes, 2022"
+  
+  sidebar:
+    background: "#D9E3E4"
+    logo: "https://user-images.githubusercontent.com/2545978/193091073-6b38734f-cd28-4946-ab2a-bebdb223d3cb.png"
+    favicon: images/openscapes_hex.png
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://rverse-tutorials.github.io
+        text: "RVerse Tutorials"
+      - icon: github
+        href: https://github.com/rworkflow-workshops
+        text: "RWorkflow Workshops"
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: schedule.md
+        text: Schedule
+      - href: WSDS_2022.pdf
+        text: Slides
+      - section: teamwork.md
+        text: Team work
+        contents: 
+          - bridges.md 
+          - parks.md 
+          - public_art.md 
+          - restuarants.md 
+          - music.md
+          - sports.md
+          - history.md
+        
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+filters:
+  - include-files.lua
+  - quarto
+
+  

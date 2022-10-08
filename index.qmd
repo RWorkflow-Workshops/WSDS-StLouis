@@ -1,0 +1,40 @@
+---
+title: "WSDS GitHub Workshop Oct 6 8am-12pm 2022"
+page-layout: full
+---
+
+<img src="https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png" alt="WSDS 2022" style="width:100%;">
+
+<img align="right" src="https://user-images.githubusercontent.com/2545978/193091073-6b38734f-cd28-4946-ab2a-bebdb223d3cb.png" width="20%">  
+
+**Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
+
+ - **[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
+
+ - **[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)**
+
+## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
+
+### Instructor(s):
+
+* [Elizabeth “Eli” Holmes](https://github.com/eeholmes), NOAA Fisheries, Northwest Fisheries Science Center <a href = "mailto: eli.holmes@noaa.gov">Send Email</a>, <a href = "http://eeholmes.github.io/">Website</a>
+
+* [Emily "Em" Markowitz](https://github.com/EmilyMarkowitz-NOAA), NOAA Fisheries, Alaska Fisheries Science Center <a href = "mailto: emily.markowitz@noaa.gov">Send Email</a>, <a href = "https://emilyhmarkowitz.github.io/emilyhmarkowitz/">Website</a>
+
+### Training description
+
+Git and GitHub are used throughout the data science community, not just to keep track of code changes but also for project management and sharing of research. This workshop will get you up and running with Git and GitHub and teach you how to use some of the most powerful features. By the end of this workshop, you will be able to use Git and GitHub in the browser to create GitHub repositories; fork repositories, add content, and push back to the main repository; browse the state of your repository content at points in the past; make releases; and organize a project using GitHub issues and a project board. No prerequisites besides a GitHub account. Bring a laptop to access GitHub via a browser.
+
+## Teams
+
+Everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the St. Louis topics in a 1 mile radius around the conference hotel! 
+
+## Code of Conduct
+
+<img align="right" src="https://user-images.githubusercontent.com/75965120/193709013-78b841f6-c986-4cd8-9c82-9d42afe0a152.jpg" width="20%">  
+
+*Remember, this is a **"Yes, And!" enviornment**. There are no wrong answers!* We are all here to learn and support each other :raised_hands:
+
+In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
+
+## Thanks for coming!

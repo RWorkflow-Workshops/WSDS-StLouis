@@ -2,8 +2,6 @@
 
 <img width="455" alt="image" src="https://user-images.githubusercontent.com/2545978/193932252-49362fe2-a81d-4727-8a2f-bfdca78cf0d8.png">
 
-# South to North
-
 ## Eads Bridge, 1867
 
 ![image](https://user-images.githubusercontent.com/2545978/193693837-93dda031-cdbb-429c-bf60-cd260edefe48.png)

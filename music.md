@@ -1,5 +1,6 @@
+# Music
 
-# Musical acts next three months
+## Musical acts next three months
 > ## 1. Beautiful The Carole King Musical
 
  ![image](https://user-images.githubusercontent.com/59938012/194350570-e5a5b29a-e388-41ca-87a6-5704d913c185.png)
@@ -52,6 +53,7 @@ Sec LEFT, Row LL
 Standard Ticket
 $29.50 ea
 ![Hollywood-Casino-Amphitheatre](https://user-images.githubusercontent.com/63486205/194357216-d771a997-089e-4f9e-afea-3a702bf17983.jpg)
+
 ## Trans-Siberian Orchestra, Dec 10, 2022!
 
 Sat, Dec 10, 3 – 5 PM CST
@@ -73,16 +75,6 @@ MEZZANINE LEVEL 303 Row G
 
 ![trans-siberian-orchestra_08-30-22_19_630e66f476b02](https://user-images.githubusercontent.com/63486205/194357146-69c220e2-a115-4994-ac77-e424acb0ef43.jpg)
 
-
-
-## Header 2
-
-
-Text with **bold**, _italic_, and [hyper-linked](https://ww2.amstat.org/meetings/wsds/2022/index.cfm) text. Use the `preview` button in editing mode to see what your text looks like while you are editing. 
-
-You can ctrl+c an image from online and directly ctrl+p images into your .md. 
-
-![image](https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png)
 
 
 ## Theaters in the Area
