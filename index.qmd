@@ -6,14 +6,13 @@ page-layout: full
 
 # WSDS GitHub Workshop Oct 6 8am-12pm 2022
 
-
 <img align="right" src="https://user-images.githubusercontent.com/2545978/193091073-6b38734f-cd28-4946-ab2a-bebdb223d3cb.png" width="20%">  
 
 **Before the workshop, please send the organizers your GitHub username so we can add you to the workshop GitHub repositories that you will use.**
 
  - **[WSDS repository](https://github.com/RWorkflow-Workshops/WSDS-StLouis)**
 
- - **[Workshop slides](https://docs.google.com/presentation/d/159Lwn4miinJRmMWpHKWTaQTHaK7h0N9CoXonqirV5u4/edit?usp=sharing)**
+ - **[Workshop slides ppt](WSDS_2022.pptx) --- [Workshop slides pdf](WSDS_2022.pdf)**
 
 ## Git-ting It Together: Learn to Use Git and GitHub for Your Projects
 
@@ -38,3 +37,7 @@ Today will a mini-hackathon, mini as in 4-hour. As a group, we will produce a se
 In short, we expect each participant to follow the [workshop's code of conduct](https://www.amstat.org/meetings/code-of-conduct). If you have any concerns, please reach out to the workshop organizers. 
 
 ## Thanks for coming!
+
+## Reuse Statement
+
+You are welcome to use any and all of this material and modify however you like. While it is always nice to get acknowledgement, especially if you reuse our content heavily, you do not need to give acknowledgment or attribution. This is content that we release fully into the public domain for reuse.
