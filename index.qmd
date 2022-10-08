@@ -1,9 +1,11 @@
 ---
-title: "WSDS GitHub Workshop Oct 6 8am-12pm 2022"
 page-layout: full
 ---
 
 <img src="https://user-images.githubusercontent.com/75965120/193682607-ecd7c869-8da9-427f-a127-246768618126.png" alt="WSDS 2022" style="width:100%;">
+
+# WSDS GitHub Workshop Oct 6 8am-12pm 2022
+
 
 <img align="right" src="https://user-images.githubusercontent.com/2545978/193091073-6b38734f-cd28-4946-ab2a-bebdb223d3cb.png" width="20%">  
 
@@ -21,13 +23,11 @@ page-layout: full
 
 * [Emily "Em" Markowitz](https://github.com/EmilyMarkowitz-NOAA), NOAA Fisheries, Alaska Fisheries Science Center <a href = "mailto: emily.markowitz@noaa.gov">Send Email</a>, <a href = "https://emilyhmarkowitz.github.io/emilyhmarkowitz/">Website</a>
 
-### Training description
+### Workshop description
 
 Git and GitHub are used throughout the data science community, not just to keep track of code changes but also for project management and sharing of research. This workshop will get you up and running with Git and GitHub and teach you how to use some of the most powerful features. By the end of this workshop, you will be able to use Git and GitHub in the browser to create GitHub repositories; fork repositories, add content, and push back to the main repository; browse the state of your repository content at points in the past; make releases; and organize a project using GitHub issues and a project board. No prerequisites besides a GitHub account. Bring a laptop to access GitHub via a browser.
 
-## Teams
-
-Everyone will contribute to a markdown document and github project within the github browser. You and your team will contribute to one of the St. Louis topics in a 1 mile radius around the conference hotel! 
+Today will a mini-hackathon, mini as in 4-hour. As a group, we will produce a series of markdown pages on attractions near our St Louis hotel. Everyone will be assigned to a 3-4 person team that will work jointly on a GitHub project board and then on a markdown document on their team's topic topic. 
 
 ## Code of Conduct
 

@@ -8,7 +8,7 @@ If anyone remember's this early 2000's business simulation video computer game, 
 
  - Form groups of ~4 people
  - Set up a project board on the table or wall. Prepare 4 columns with blue masking tape for each stage of production: 
-    - :clipboard: **Ideas**: Generate good, bad, and maybe ideas!
+    - **Ideas**: Generate good, bad, and maybe ideas!
        - Pick an exhibit to build (e.g., reptiles, mystical sea monsters, dinosaurs, insects, safari) and collaboratively decide what your exhibit needs and write down each "task" (aka drawing assignment) on a post-it (e.g., animals, toys for animals, benches, bathing pools). 
     - **Ready to work on**: The idea now has a clear path forward and someone can pick up the task. 
       - Organize tasks to get the ready for deligation. 
